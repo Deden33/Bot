@@ -1,5 +1,5 @@
 {
-  "name": "Layna",
+  "name": "Den",
   "version": "1.0.0",
   "description": "WhatsApp Bot Ringan",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "start": "node main.js",
     "test": "node test.js"
   },
-  "author": "Layna",
+  "author": "Den",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
